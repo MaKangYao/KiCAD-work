@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/mky/Downloads/asdfgg/asdfgg.kicad_sch</source>
+    <date>2022年08月03日 星期三 18时23分56秒</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>asdfgg.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1.5nF</value>
+      <footprint>AD8232:0805电容</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>756a04b9-ddc4-417c-9f1b-9591af60e6a7</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1nF</value>
+      <footprint>AD8232:0805电容</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1aee387f-790f-4f34-8c9e-1c990be4dc0b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10nF</value>
+      <footprint>AD8232:0805电容</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7350027b-bf7e-49d6-99a3-f98b0cfd6600</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.33uF</value>
+      <footprint>AD8232:0805电容</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92085ae3-53c1-4a37-9655-1c1f489ebeda</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>AD8232:0805电容</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8e82c97-223c-4a46-a75e-ccd11111d954</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.33uF</value>
+      <footprint>AD8232:0805电容</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ed5fe8b-a953-44c2-a913-445c2c26471c</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>AD8232:0805电容</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b35971d8-be67-4a78-922c-7227d8430fcd</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cea9ce17-c975-4fbc-bed8-444a24edf159</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148WT</value>
+      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds30396.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WT" description="75V 0.15A Fast switching Diode, SOD-523"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e613f57d-fb7c-4012-8085-07e23897e4fb</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>M03PTH</value>
+      <footprint>AD8232:1X03</footprint>
+      <libsource lib="AD8232" part="M03PTH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bddcdf9-dcf8-42d3-8065-aae9a0b339f6</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>6130xx11121-6Pin</value>
+      <footprint>AD8232:HDRV6W64P0X254_1X6_1524X254X869P</footprint>
+      <datasheet>https://www.we-online.com/katalog/datasheet/6130xx11121.pdf</datasheet>
+      <fields>
+        <field name="Description">2.54MM PIN HEADER</field>
+        <field name="Height">8.69</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">6130xx11121-6Pin</field>
+      </fields>
+      <libsource lib="AD8232" part="6130xx11121-6Pin" description="2.54MM PIN HEADER"/>
+      <property name="Description" value="2.54MM PIN HEADER"/>
+      <property name="Height" value="8.69"/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="6130xx11121-6Pin"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4bcc706-2124-408b-a552-9aa3fdbf899a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e7f7111-4281-4f20-ba2f-382fff4dc72d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f744d816-80bd-4c46-b3a9-a14f689d2af3</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>180K</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13b09e52-54d0-495a-9c86-1e5df69b0e54</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>180K</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c9b194c-a4a5-4ff9-b898-ee93cb696b39</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>360K</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f387c9f-76e2-43e1-9249-8035810f104a</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e9f02d0-5894-458e-81e2-cddbc24c7098</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a24456d7-5973-4186-9688-cae6def37db0</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100K</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89f88aa2-37f0-40c7-ad2d-95a77455bb75</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cae4b768-ed36-43af-bcb4-83325f8082ec</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94d647ff-3ba4-4274-b9e4-f8ab7e1b2d6a</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff5ea8ee-57db-439d-b946-83dc0db9b5bf</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1.4M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b0fe420-53fb-4d52-9f61-7b89d6f2fc3d</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eb8cf56-e6c7-4ac7-9018-6be31cddd2cd</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10M</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93af6589-3878-4c26-b929-0f4a98dc2224</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10K</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>584d0f55-8c28-43ea-a89b-335a298651a2</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1K</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ba89755-2df9-4355-bbac-60a0aca08f7e</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>0</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2f6bd66-1bcd-4232-a361-4f5733fba8bf</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>DNP</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>046d5306-cdba-4d6d-ac58-f85e6c8503b4</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>0</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61b7e289-2be9-4982-aaa8-cd295841d3e9</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>DNP</value>
+      <footprint>AD8232:0603电阻</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df529ce5-0bbd-4427-8875-e980748e0132</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AD8232</value>
+      <footprint>AD8232:QFN50P400X400X80-21N-D</footprint>
+      <libsource lib="AD8232" part="AD8232" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="asdfgg.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25c2a8f4-2898-4cca-89d7-254b0664d82c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AD8232" part="6130xx11121-6Pin">
+      <description>2.54MM PIN HEADER</description>
+      <docs>https://www.we-online.com/katalog/datasheet/6130xx11121.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">6130xx11121-6Pin</field>
+        <field name="Footprint">AD8232:HDRV6W64P0X254_1X6_1524X254X869P</field>
+        <field name="Datasheet">https://www.we-online.com/katalog/datasheet/6130xx11121.pdf</field>
+        <field name="Description">2.54MM PIN HEADER</field>
+        <field name="Height">8.69</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">6130xx11121-6Pin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="AD8232" part="AD8232">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">AD8232</field>
+        <field name="Footprint">AD8232:QFN50P400X400X80-21N-D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="HPDRIVE" type="bidirectional"/>
+        <pin num="2" name="+IN" type="bidirectional"/>
+        <pin num="3" name="-IN" type="bidirectional"/>
+        <pin num="4" name="RLDFB" type="bidirectional"/>
+        <pin num="5" name="RLD" type="bidirectional"/>
+        <pin num="6" name="SW" type="bidirectional"/>
+        <pin num="7" name="OPAMP+" type="bidirectional"/>
+        <pin num="8" name="REFOUT" type="bidirectional"/>
+        <pin num="9" name="OPAMP-" type="bidirectional"/>
+        <pin num="10" name="OUT" type="bidirectional"/>
+        <pin num="11" name="LO-" type="bidirectional"/>
+        <pin num="12" name="LO+" type="bidirectional"/>
+        <pin num="13" name="~{SDN}" type="bidirectional"/>
+        <pin num="14" name="AC/~{DC}" type="bidirectional"/>
+        <pin num="15" name="FR" type="bidirectional"/>
+        <pin num="16" name="GND" type="bidirectional"/>
+        <pin num="17" name="+VS" type="bidirectional"/>
+        <pin num="18" name="REFIN" type="bidirectional"/>
+        <pin num="19" name="IAOUT" type="bidirectional"/>
+        <pin num="20" name="HPSENSE" type="bidirectional"/>
+        <pin num="PAD" name="GND_PAD" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="AD8232" part="M03PTH">
+      <fields>
+        <field name="Reference">JP1</field>
+        <field name="Value">M03PTH</field>
+        <field name="Footprint">AD8232_Heart_Rate_Monitor:1X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148WT">
+      <description>75V 0.15A Fast switching Diode, SOD-523</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds30396.pdf</docs>
+      <footprints>
+        <fp>D*SOD?523*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148WT</field>
+        <field name="Footprint">Diode_SMD:D_SOD-523</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds30396.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="AD8232">
+      <uri>/home/mky/Downloads/asdfgg/AD8232.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/symbols//Diode.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="FR" pintype="bidirectional"/>
+      <node ref="U1" pin="17" pinfunction="+VS" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="/LA">
+      <node ref="JP1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/LO+">
+      <node ref="JP2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="LO+" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/LO-">
+      <node ref="JP2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="LO-" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/RA">
+      <node ref="JP1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/REFOUT">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="REFOUT" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/RL">
+      <node ref="JP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/SDN">
+      <node ref="JP2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="~{SDN}" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/SIGNAL_OUT">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="OUT" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U1" pin="PAD" pinfunction="GND_PAD" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="GND1">
+      <node ref="JP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="RLDFB" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="RLD" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="OPAMP+" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="HPDRIVE" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="HPSENSE" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="SW" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="REFIN" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="+IN" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="-IN" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="OPAMP-" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="IAOUT" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="AC/~{DC}" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>

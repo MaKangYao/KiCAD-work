@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ad8232")(type "Legacy")(uri "/home/mky/Downloads/ad8232lib/AD8232ACPZ-WP/KiCad/AD8232ACPZ-WP.lib")(options "")(descr ""))
+  (lib (name "AD8232")(type "KiCad")(uri "${KIPRJMOD}/AD8232.kicad_sym")(options "")(descr ""))
+)
